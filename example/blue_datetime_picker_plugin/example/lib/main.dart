@@ -28,9 +28,9 @@ class _MyAppState extends State<MyApp> {
           title: const Text('Plugin example app'),
         ),
         body:BlueTimePicker(
-          backgroundColor: Colors.grey,
+          backgroundColor: Colors.white,
           height: 200,
-          textStyle: TextStyle(fontSize: 20,color: Colors.red),
+          textStyle: TextStyle(fontSize: 20,color: Colors.black),
           itemExtent: 28,
           onInitBlueTimePickerChanged: (timeValue){
             print('timeValue.hour:${timeValue.hour} timeValue.minute:${timeValue.minute}');
