@@ -8,8 +8,8 @@
 
 ## 效果
 
-![](https://raw.githubusercontent.com/MyBlueSir/FlutterPlugin/master/example/blue_datetime_picker_plugin/example1.png)
-![](https://raw.githubusercontent.com/MyBlueSir/FlutterPlugin/master/example/blue_datetime_picker_plugin/example2.jpg)
+![](https://github.com/MyBlueSir/FlutterPlugin/edit/master/example/blue_datetime_picker_plugin/example1.png)
+![](https://github.com/MyBlueSir/FlutterPlugin/edit/master/example/blue_datetime_picker_plugin//example2.jpg)
 
 ## 示例
 
